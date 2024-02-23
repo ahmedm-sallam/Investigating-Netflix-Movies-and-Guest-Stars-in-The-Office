@@ -1,7 +1,5 @@
 # Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office
 
-## Overview
-
 This project explores the trends in Netflix movie durations over the years, aiming to validate the claim that movie lengths have been decreasing. The analysis involves creating visualizations, subsetting data, and identifying genres that contribute to shorter durations.
 
 ## Dataset

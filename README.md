@@ -6,7 +6,7 @@ This project explores the trends in Netflix movie durations over the years, aimi
 
 ## Dataset
 
-The dataset used for this analysis includes information on Netflix movies, with details such as release year, duration, genre, and country. The main dataset is sourced from [Netflix Data](datasets/netflix_data.csv).
+The dataset used for this analysis includes information on Netflix movies, with details such as release year, duration, genre, and country. The main dataset is sourced from [Netflix Data](datasets).
 
 ## Exploratory Data Analysis
 
